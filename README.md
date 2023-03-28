@@ -3,7 +3,7 @@
 
 
 
-'''
+```
 set autoindent
 set number
 set ruler
@@ -32,4 +32,4 @@ set fileencoding=utf-8
 set textwidth=80
 set clipboard=unnamedplus
 syntax on
-'''
+```
